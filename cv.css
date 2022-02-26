@@ -1,0 +1,51 @@
+.prueba {
+}
+.caja1 {
+  position: static;
+  display: inline-block;
+  width: 100%;
+  height: 10%;
+}
+.caja2 {
+  display: flex;
+  vertical-align: middle;
+  justify-content: center;
+}
+.centrarfuente {
+  text-align: center;
+}
+.justificarfuente {
+  text-align: justify;
+}
+.marco-header {
+}
+.cv {
+  display: none;
+  visibility: hidden;
+}
+.presentacion {
+}
+.foto-presentacion {
+  display: flex;
+  justify-content: center;
+  width: 150px;
+  border-radius: 50%;
+}
+.nombre-presentacion {
+}
+.direccion-presentacion {
+}
+.perfil {
+}
+.titulo {
+}
+.contenido {
+}
+.titulo-seccion {
+}
+.contenido-seccion {
+}
+.tiempo-seccion {
+}
+.contacto-seccion {
+}
